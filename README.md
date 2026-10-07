@@ -10,7 +10,7 @@ Add both CH55XDuino titles that appear.
 
 Download Folder and Open File
 
-Download entire Wiegand_HEX26_Raw_Cred_Output_V13 folder and open .ino file in Arduino IDE
+Download entire Wiegand_HEX26_HID_15 folder and open .ino file in Arduino IDE
 
 Click check mark to compile code without flashing the USB
 
