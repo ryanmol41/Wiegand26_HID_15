@@ -1,0 +1,25 @@
+-muwx
+-i C:\Users\ryanm\AppData\Local\arduino\sketches\A3927EF2E60A783F0688C9BAE176676C/Wiegand26_HID_15.ino.elf
+-M
+-X 0x016c
+-C 0x2800
+-b HOME = 0x0000
+-b XSEG = 0x0094
+-b PSEG = 0x0094
+-b ISEG = 0x0000
+-b BSEG = 0x0000
+-k C:\Users\ryanm\AppData\Local\arduino\sketches\A3927EF2E60A783F0688C9BAE176676C
+-k C:\Users\ryanm\AppData\Local\Arduino15\packages\CH55xDuino\tools\sdcc\build.13407_4/lib/large_int_calc_stack_auto
+-l C:\Users\ryanm\AppData\Local\arduino\sketches\A3927EF2E60A783F0688C9BAE176676C/..\..\cores\016a6c1cd5f2e4bfe1f5c126e4950e6c\core.lib
+-l mcs51
+-l libsdcc
+-l liblong
+-l liblonglong
+-l libint
+-l libfloat
+C:\Users\ryanm\AppData\Local\arduino\sketches\A3927EF2E60A783F0688C9BAE176676C\sketch\Wiegand26_HID_15.ino.cpp.rel
+C:\Users\ryanm\AppData\Local\arduino\sketches\A3927EF2E60A783F0688C9BAE176676C\sketch\src\userUsbHidKeyboard\USBHIDKeyboard.c.rel
+C:\Users\ryanm\AppData\Local\arduino\sketches\A3927EF2E60A783F0688C9BAE176676C\sketch\src\userUsbHidKeyboard\USBconstant.c.rel
+C:\Users\ryanm\AppData\Local\arduino\sketches\A3927EF2E60A783F0688C9BAE176676C\sketch\src\userUsbHidKeyboard\USBhandler.c.rel
+
+-e
